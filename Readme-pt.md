@@ -19,19 +19,23 @@ Não tenho problemas em trabalhar em equipe, sou próativa, organizada, perfecci
 
 * HTML5
 * CSS3 (Sass, Less)
-* Responsive Design
+* Responsividade do site
 * Frameworks (Bootstrap)
 * Javascript
-* Automatizadores (Gulp)
+* Automatizadores (Gulp, Grunt)
 * GitHub
 * PHP (Wordpress)
 * Programas de edição e recortes de imagens (Photoshop)
 
 ## Experiência Profissional
 
-**Desenvolvedora Web** - Mainroute Tecnologia para Negócios | Agosto 2016 - Presente
+**Desenvolvedora Web** - Agência Digital Profit-e | Agosto 2017 - Presente
 
-> Trabalho atualmente como prestadora de serviços na Editora Abril. Faço parte da equipe que cria templates para os sites da própria editora, implementa melhorias nos sites que já estão online, e desenvolve plugins para os sites que utilizam a plataforma Wordpress VIP. Trabalhando com: HTML5, CSS3/SASS, Javascript, PHP, Gulp e Git.
+> Sou parte da equipe de desenvolvedores da agência com foco em ecommerce utilizando a plataforma de comércio eletrônico VTEX. Trabalhando com: HTML5, CSS3/LESS, Javascript/jQuery, Gulp/Grunt e Git.
+
+**Desenvolvedora Web** - Mainroute Tecnologia para Negócios | Agosto 2016 - Agosto 2017
+
+> Trabalhei como prestadora de serviços na Editora Abril. Fazia parte da equipe que criava templates para os sites da própria editora, implementando melhorias nos sites que já estavam online, e com desenvolvimento de plugins para os sites que utilizam a plataforma Wordpress VIP. Utilizava HTML5, CSS3/SASS, Javascript, PHP, Gulp e Git.
 
 **Desenvolvedora Front-End** - Ecommet | Maio 2015 - Agosto 2016
 

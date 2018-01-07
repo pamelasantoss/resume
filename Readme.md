@@ -22,16 +22,20 @@ I have no problem to work as a team, I'm proactive, organized, perfectionist, an
 * Responsive Design
 * Frameworks (Bootstrap)
 * Javascript
-* Gulp
+* Gulp; Grunt
 * GitHub
 * PHP (Wordpress)
 * Photoshop
 
 ## Work Experience
 
-**Web Developer** - Mainroute Tecnologia para Negócios | August 2016 - Present
+**Web Developer** - Digital Agency Profit-e | August 2017 - Present
 
-> I'm working as a service provider at Editora Abril. I'm part of a team that develops templates and plug-ins to websites of the company itself using Wordpress VIP plataform. Working with: HTML5, CSS3/SASS, Javascript, PHP, Gulp and Git.
+> I'm part of a developers' team of the agency focused on ecommerce using the VTEX plataform. Working with: HTML5, CSS3/LESS, Javascript/jQuery, Gulp/Grunt and Git.
+
+**Web Developer** - Mainroute Tecnologia para Negócios | August 2016 - August 2017
+
+> I worked as a service provider at Editora Abril. I was part of a team that develops templates and plug-ins to websites of the company itself using Wordpress VIP plataform. I worked with HTML5, CSS3/SASS, Javascript, PHP, Gulp and Git.
 
 **Front-End Developer** - Ecommet | May 2015 - August 2016
 
