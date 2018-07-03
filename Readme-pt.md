@@ -21,10 +21,11 @@ Não tenho problemas em trabalhar em equipe, sou próativa, organizada, perfecci
 * CSS3 (Sass, Less)
 * Responsividade do site
 * Frameworks (Bootstrap)
-* Javascript
+* Javascript / jQuery
 * Automatizadores (Gulp, Grunt)
-* GitHub
+* Versionamento de arquivos (GitHub / Bitbucket)
 * PHP (Wordpress)
+* Plataforma de ecommerce (VTEX)
 * Programas de edição e recortes de imagens (Photoshop)
 
 ## Experiência Profissional

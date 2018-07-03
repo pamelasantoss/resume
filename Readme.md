@@ -21,10 +21,11 @@ I have no problem to work as a team, I'm proactive, organized, perfectionist, an
 * CSS3 (Sass, Less)
 * Responsive Design
 * Frameworks (Bootstrap)
-* Javascript
+* Javascript / jQuery
 * Gulp; Grunt
-* GitHub
+* GitHub / Bitbucket
 * PHP (Wordpress)
+* Ecommerce plataform (VTEX)
 * Photoshop
 
 ## Work Experience
