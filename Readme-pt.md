@@ -13,26 +13,25 @@
 ## Sobre mim
 Sou Desenvolvedora Front-End que está sempre disposta a aprender coisas novas, e contribuir com os meus conhecimentos na realização de novos projetos.
 
-Não tenho problemas em trabalhar em equipe, sou próativa, organizada, perfeccionista, e aprendo as coisas com facilidade!
-
 ## Habilidades
 
 * HTML5
 * CSS3 (Sass, Less)
-* Responsividade do site
-* Frameworks (Bootstrap)
-* Javascript / jQuery
 * Automatizadores (Gulp, Grunt)
-* Versionamento de arquivos (GitHub / Bitbucket)
+* Javascript / jQuery
+* React
 * PHP (Wordpress)
 * Plataforma de ecommerce (VTEX)
+* Responsividade do site
+* Frameworks (Bootstrap)
+* Versionamento de arquivos (GitHub / Bitbucket)
 * Programas de edição e recortes de imagens (Photoshop)
 
 ## Experiência Profissional
 
 **Desenvolvedora Web** - Agência Digital Profit-e | Agosto 2017 - Presente
 
-> Sou parte da equipe de desenvolvedores da agência com foco em ecommerce utilizando a plataforma de comércio eletrônico VTEX. Trabalhando com: HTML5, CSS3/LESS, Javascript/jQuery, Gulp/Grunt e Git.
+> Sou parte da equipe de desenvolvedores da agência com foco em ecommerce utilizando a plataforma de comércio eletrônico VTEX. Desenvolvimento de redesign, requisições ajax utilizando a API da VTEX e demais ajustes de acordo com a necessidade. Trabalhando com: HTML5, CSS3/SASS/LESS, Javascript/jQuery, React, Node, Gulp/Grunt e Git.
 
 **Desenvolvedora Web** - Mainroute Tecnologia para Negócios | Agosto 2016 - Agosto 2017
 
@@ -61,6 +60,7 @@ Não tenho problemas em trabalhar em equipe, sou próativa, organizada, perfecci
 ## Cursos
 
 * HTML5/CSS
+* REST/RESTful APIs
 
 
 ## Idiomas

@@ -13,26 +13,25 @@
 ## About me
 I'm a front-end developer who always willing to learn new things and contribute with my knowlegde in the realization of new projects.
 
-I have no problem to work as a team, I'm proactive, organized, perfectionist, and I'm a quick learner!
-
 ## Skills
 
 * HTML5
 * CSS3 (Sass, Less)
-* Responsive Design
-* Frameworks (Bootstrap)
-* Javascript / jQuery
 * Gulp; Grunt
-* GitHub / Bitbucket
+* Javascript / jQuery
+* React
 * PHP (Wordpress)
 * Ecommerce plataform (VTEX)
+* Responsive Design
+* Frameworks (Bootstrap)
+* GitHub / Bitbucket
 * Photoshop
 
 ## Work Experience
 
 **Web Developer** - Digital Agency Profit-e | August 2017 - Present
 
-> I'm part of a developers' team of the agency focused on ecommerce using the VTEX plataform. Working with: HTML5, CSS3/LESS, Javascript/jQuery, Gulp/Grunt and Git.
+> I'm part of a developers' team of the agency focused on ecommerce using the VTEX plataform. Redesign development, ajax requests using the VTEX API and other adjustments according to the need. Working with: HTML5, CSS3/SASS/LESS, Javascript/jQuery, React, Node, Gulp/Grunt and Git.
 
 **Web Developer** - Mainroute Tecnologia para Negócios | August 2016 - August 2017
 
@@ -61,6 +60,7 @@ I have no problem to work as a team, I'm proactive, organized, perfectionist, an
 ## Courses
 
 * HTML5/CSS
+* REST/RESTful APIs
 
 
 ## Languages
