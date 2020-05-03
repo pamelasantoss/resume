@@ -16,20 +16,20 @@ Sou Desenvolvedora Front-End que está sempre disposta a aprender coisas novas, 
 ## Habilidades
 
 * HTML5
-* CSS3 (Sass, Less)
-* Automatizadores (Gulp, Grunt)
-* Javascript / jQuery
-* React
+* CSS3 (Sass / Scss / Less)
+* Automatizadores (Gulp / Grunt)
+* Javascript / jQuery / Requisição AJAX
+* React / NodeJS / ES6
 * PHP (Wordpress)
 * Plataforma de ecommerce (VTEX)
 * Responsividade do site
 * Frameworks (Bootstrap)
 * Versionamento de arquivos (GitHub / Bitbucket)
-* Programas de edição e recortes de imagens (Photoshop)
+* Programas de edição e recortes de imagens (Photoshop / Figma)
 
 ## Experiência Profissional
 
-**Desenvolvedora Web** - Agência Digital Profit-e | Agosto 2017 - Presente
+**Desenvolvedora Front-End** - Driven | Agosto 2017 - Presente
 
 > Sou parte da equipe de desenvolvedores da agência com foco em ecommerce utilizando a plataforma de comércio eletrônico VTEX. Desenvolvimento de redesign, requisições ajax utilizando a API da VTEX e demais ajustes de acordo com a necessidade. Trabalhando com: HTML5, CSS3/SASS/LESS, Javascript/jQuery, React, Node, Gulp/Grunt e Git.
 
@@ -61,6 +61,7 @@ Sou Desenvolvedora Front-End que está sempre disposta a aprender coisas novas, 
 
 * HTML5/CSS
 * REST/RESTful APIs
+* Node com React: Fullstack Web Development
 
 
 ## Idiomas

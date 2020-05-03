@@ -16,20 +16,20 @@ I'm a front-end developer who always willing to learn new things and contribute 
 ## Skills
 
 * HTML5
-* CSS3 (Sass, Less)
-* Gulp; Grunt
-* Javascript / jQuery
-* React
+* CSS3 (Sass / Scss / Less)
+* Gulp / Grunt
+* Javascript / jQuery / AJAX Request
+* React / NodeJS / ES6
 * PHP (Wordpress)
 * Ecommerce plataform (VTEX)
 * Responsive Design
 * Frameworks (Bootstrap)
 * GitHub / Bitbucket
-* Photoshop
+* Photoshop / Figma
 
 ## Work Experience
 
-**Web Developer** - Digital Agency Profit-e | August 2017 - Present
+**Front-End Developer** - Driven | August 2017 - Present
 
 > I'm part of a developers' team of the agency focused on ecommerce using the VTEX plataform. Redesign development, ajax requests using the VTEX API and other adjustments according to the need. Working with: HTML5, CSS3/SASS/LESS, Javascript/jQuery, React, Node, Gulp/Grunt and Git.
 
@@ -61,6 +61,7 @@ I'm a front-end developer who always willing to learn new things and contribute 
 
 * HTML5/CSS
 * REST/RESTful APIs
+* Node with React: Fullstack Web Development
 
 
 ## Languages
