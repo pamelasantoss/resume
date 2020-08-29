@@ -1,6 +1,6 @@
 # Pamela Santos Silva
 
-**Localização:** São Paulo
+**Localização:** Santa Catarina
 
 **Portfolio:** [pamesantos.com.br](http://pamesantos.com.br/)
 
