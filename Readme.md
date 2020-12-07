@@ -29,7 +29,11 @@ I'm a front-end developer who always willing to learn new things and contribute 
 
 ## Work Experience
 
-**Front-End Developer** - Driven | August 2017 - Present
+**Front-End Developer** - Maeztra | December 2020 - Present
+
+> I'm part of a developers' team of the agency focused on ecommerce using the VTEX plataform. Redesign development, landing pages, ajax requests using the VTEX API and other adjustments according to the need. Working with: HTML5, CSS3/SASS/LESS, Javascript/jQuery, Gulp and Git.
+
+**Front-End Developer** - Driven | August 2017 - November 2020
 
 > I'm part of a developers' team of the agency focused on ecommerce using the VTEX plataform. Redesign development, ajax requests using the VTEX API and other adjustments according to the need. Working with: HTML5, CSS3/SASS/LESS, Javascript/jQuery, React, Node, Gulp/Grunt and Git.
 
