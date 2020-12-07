@@ -29,7 +29,11 @@ Sou Desenvolvedora Front-End que está sempre disposta a aprender coisas novas, 
 
 ## Experiência Profissional
 
-**Desenvolvedora Front-End** - Driven | Agosto 2017 - Presente
+**Desenvolvedora Front-End** - Maeztra | Dezembro 2020 - Presente
+
+> Sou parte da equipe de desenvolvedores da agência com foco em ecommerce utilizando a plataforma de comércio eletrônico VTEX. Desenvolvimento de redesign, landing pages, requisições ajax utilizando a API da VTEX e demais ajustes de acordo com a necessidade. Trabalhando com: HTML5, CSS3/SASS/LESS, Javascript/jQuery, Gulp e Git.
+
+**Desenvolvedora Front-End** - Driven | Agosto 2017 - Novembro 2020
 
 > Sou parte da equipe de desenvolvedores da agência com foco em ecommerce utilizando a plataforma de comércio eletrônico VTEX. Desenvolvimento de redesign, requisições ajax utilizando a API da VTEX e demais ajustes de acordo com a necessidade. Trabalhando com: HTML5, CSS3/SASS/LESS, Javascript/jQuery, React, Node, Gulp/Grunt e Git.
 
