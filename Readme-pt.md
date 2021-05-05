@@ -11,7 +11,13 @@
 **Github:** pamelasantoss
 
 ## Sobre mim
-Sou Desenvolvedora Front-End que está sempre disposta a aprender coisas novas, e contribuir com os meus conhecimentos na realização de novos projetos.
+Meu maior objetivo como desenvolvedora é inspirar outras pessoas desenvolvedoras a gostar do que faz, a se "divertir" trabalhando e o mais importante: nunca deixar de acompanhar as tendências de Mercado.
+
+Sou desenvolvedora front-end há mais de 7 anos e atualmente estou focada em evoluir meus conhecimentos em ReactJS, Javascript, SASS/SCSS, TypeScript e NodeJS. Comecei nessa vida trabalhando com ecommerce e desde então não parei de crescer junto com esse mercado maravilhoso que não para de evoluir.
+
+Hoje em dia trabalho com a VTEX, realizando melhorias em layouts e performance do site, criação de novas funcionalidades "diferentes" que o cliente precisa utilizando a API da VTEX, onde aproveito para melhorar meu trabalho cada dia que passa.
+
+Adoro um desafio e oportunidades de aprender coisas novas que farão de mim uma profissional melhor.
 
 ## Habilidades
 
