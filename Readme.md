@@ -11,7 +11,13 @@
 **Github:** pamelasantoss
 
 ## About me
-I'm a front-end developer who always willing to learn new things and contribute with my knowlegde in the realization of new projects.
+My biggest goal as a developer is inspiring other developers people to like what we do, to "have fun" while you're working and the most important: never let to follow the market tendecies.
+
+I'm a front-end developer for more than 7 years and at the moment I'm focus to evolve my knowledge in ReactJS, Javascript, SASS/SCSS, TypeScript and NodeJS. I started in this life working with ecommerce and since than I've never stoped to grow up together with this wonderful market that doesn't stop to evolve.
+
+Nowadays I work with VTEX, making improvements in layout and website performance, creation of new "different" features that the customer needs using the VTEX API , where I take the opportunity to improve my work every day.
+
+I love a challenge and oportunities to learn new things that will make me a better professional.
 
 ## Skills
 
