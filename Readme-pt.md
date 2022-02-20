@@ -1,12 +1,10 @@
 # Pamela Santos Silva
 
-**Localização:** Santa Catarina
+**Localização:** Florianópolis - SC
 
 **Portfolio:** [pamesantos.com.br](http://pamesantos.com.br/)
 
 **E-mail:** pamesantoss@hotmail.com
-
-**Skype:** pame.santoss
 
 **Github:** pamelasantoss
 
@@ -35,7 +33,7 @@ Adoro um desafio e oportunidades de aprender coisas novas que farão de mim uma 
 
 ## Experiência Profissional
 
-**Desenvolvedora Front-End** - Maeztra | Dezembro 2020 - Presente
+**Desenvolvedora Front-End** - Maeztra | Dezembro 2020 - Janeiro 2022
 
 > Sou parte da equipe de desenvolvedores da agência com foco em ecommerce utilizando a plataforma de comércio eletrônico VTEX. Desenvolvimento de redesign, landing pages, requisições ajax utilizando a API da VTEX e demais ajustes de acordo com a necessidade. Trabalhando com: HTML5, CSS3/SASS/LESS, Javascript/jQuery, Gulp e Git.
 

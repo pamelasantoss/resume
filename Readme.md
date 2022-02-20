@@ -1,12 +1,10 @@
 # Pamela Santos Silva
 
-**Location:** Santa Catarina
+**Location:** Florianópolis - SC
 
 **Portfolio:** [pamesantos.com.br](http://pamesantos.com.br/)
 
 **E-mail:** pamesantoss@hotmail.com
-
-**Skype:** pame.santoss
 
 **Github:** pamelasantoss
 
@@ -35,7 +33,7 @@ I love a challenge and oportunities to learn new things that will make me a bett
 
 ## Work Experience
 
-**Front-End Developer** - Maeztra | December 2020 - Present
+**Front-End Developer** - Maeztra | December 2020 - January 2022
 
 > I'm part of a developers' team of the agency focused on ecommerce using the VTEX plataform. Redesign development, landing pages, ajax requests using the VTEX API and other adjustments according to the need. Working with: HTML5, CSS3/SASS/LESS, Javascript/jQuery, Gulp and Git.
 
