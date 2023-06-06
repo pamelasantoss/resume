@@ -70,6 +70,7 @@ Adoro um desafio e oportunidades de aprender coisas novas que farão de mim uma 
 * Node com React: Fullstack Web Development
 * VTEX Certified Professional Advanced Implementation Expert
 * GraphQL com React: O Guia completo dos Desenvolvedores
+* Testing React com Jest e React Testing Library
 
 
 ## Idiomas
