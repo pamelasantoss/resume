@@ -20,7 +20,7 @@ I love challenges and oportunities to learn new things that will make me a bette
 * Jest / React Testing Library
 * GraphQL
 * Gulp / Grunt
-* Ecommerce plataform (VTEX)
+* Ecommerce platform (VTEX)
 * Responsive websites
 * GitHub / Bitbucket / GitFlow
 * Figma
@@ -29,7 +29,7 @@ I love challenges and oportunities to learn new things that will make me a bette
 
 **Front-End Developer** - Vagas.com | September 2023 - Current
 
-> I'm part of front-end circle inside the company, and our main goal is raise improvements on the applications, considering the best code practices.
+> I’m part of the front-end circle inside the company, and our main goal is to raise improvements on the applications, considering the best code practices.
 
 **Software Developer** - Hurb | January 2022 - May 2023
 
@@ -37,15 +37,15 @@ I love challenges and oportunities to learn new things that will make me a bette
 
 **Front-End Developer** - Maeztra | December 2020 - January 2022
 
-> I was part of a developers' team of the company focused on ecommerce using the VTEX plataform. I was a tech leader for a short period at the company helping new developers give their first steps into the company, I presented improvements of code and processes to facilitate the day of the team, documentation creation, code reviews by pull requests, and auxiliated with the structure of the new applications and components. I worked with VTEX IO, ReactJS, TypeScript and GraphQL.
+> I was part of a developers' team of the company focused on ecommerce using the VTEX platform. I was a tech leader for a short period at the company helping new developers give their first steps into the company, I presented improvements of code and processes to facilitate the day of the team, documentation creation, code reviews by pull requests, and auxiliated with the structure of the new applications and components. I worked with VTEX IO, ReactJS, TypeScript and GraphQL.
 
 **Front-End Developer** - Driven | August 2017 - November 2020
 
-> I was part of a developers' team of the company focused on ecommerce using the VTEX plataform. Redesign development, ajax requests using the VTEX API and other adjustments according to the need. Working with: HTML5, CSS3/SASS/LESS, Javascript/jQuery, React, Node, Gulp/Grunt and Git.
+> I was part of a developers' team of the company focused on ecommerce using the VTEX platform. Redesign development, ajax requests using the VTEX API and other adjustments according to the need. Working with: HTML5, CSS3/SASS/LESS, Javascript/jQuery, React, Node, Gulp/Grunt and Git.
 
 **Web Developer** - Mainroute Tecnologia para Negócios | August 2016 - August 2017
 
-> I worked as a service provider at Editora Abril. I was part of a team that develops templates and plug-ins to websites of the company itself using Wordpress VIP plataform. I worked with HTML5, CSS3/SASS, Javascript, PHP, Gulp and Git.
+> I worked as a service provider at Editora Abril. I was part of a team that develops templates and plug-ins to websites of the company itself using Wordpress VIP platform. I worked with HTML5, CSS3/SASS, Javascript, PHP, Gulp and Git.
 
 **Front-End Developer** - Ecommet | May 2015 - August 2016
 
