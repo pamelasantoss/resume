@@ -7,7 +7,7 @@
 **Github:** pamelasantoss
 
 ## About me
-I'm a front-end developer for more than 8 years and at the moment I'm focused to improve my skills in ReactJS, Javascript, CSS, and TypeScript. I started my career working with e-commerce and since then I never stopped to grow up together with this wonderful market that doesn't stop to grow.
+I'm a front-end developer for more than 8 years and at the moment I'm focused to improve my skills in ReactJS, Javascript, CSS and TypeScript. I started my career working with e-commerce and since then I never stopped to grow up together with this wonderful market that doesn't stop to grow.
 
 I love challenges and oportunities to learn new things that will make me a better professional.
 
@@ -16,7 +16,7 @@ I love challenges and oportunities to learn new things that will make me a bette
 * HTML5
 * CSS3 (Sass / Scss / Less)
 * Javascript / jQuery / AJAX Request
-* React / NodeJS / ES6
+* React / Next.js / ES6 / TypeScript
 * Jest / React Testing Library
 * GraphQL
 * Gulp / Grunt
@@ -26,6 +26,10 @@ I love challenges and oportunities to learn new things that will make me a bette
 * Figma
 
 ## Work Experience
+
+**Front-End Developer** - Vagas.com | September 2023 - Current
+
+> I'm part of front-end circle inside the company, and our main goal is raise improvements on the applications, considering the best code practices.
 
 **Software Developer** - Hurb | January 2022 - May 2023
 
@@ -68,9 +72,12 @@ I love challenges and oportunities to learn new things that will make me a bette
 * HTML5/CSS
 * REST/RESTful APIs
 * Node with React: Fullstack Web Development
+* A discord bot development with NodeJS
 * VTEX Certified Professional Advanced Implementation Expert
 * GraphQL with React: The Complete Developers Guide
 * Testing React with Jest and React Testing Library
+* Git and GitHub: Basic Formation by LinkedIn
+* Certificate of participation on NLW AI by Rocketseat
 
 
 ## Languages

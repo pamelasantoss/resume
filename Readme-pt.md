@@ -16,7 +16,7 @@ Adoro um desafio e oportunidades de aprender coisas novas que farão de mim uma 
 * HTML5
 * CSS3 (Sass / Scss / Less)
 * Javascript / jQuery / Requisição AJAX
-* React / NodeJS / ES6
+* React / Next.js / ES6 / TypeScript
 * Jest / React Testing Library
 * GraphQL
 * Automatizadores (Gulp / Grunt)
@@ -26,6 +26,10 @@ Adoro um desafio e oportunidades de aprender coisas novas que farão de mim uma 
 * Programas de edição e recortes de imagens (Figma)
 
 ## Experiência Profissional
+
+**Desenvolvedora Front-End** - Vagas.com | Setembro 2023 - Atualmente
+
+> Faço parte do círculo de front-end da empresa, e nosso principal objetivo é levantar melhorias nas aplicações, levando em consideração as boas práticas no código.
 
 **Desenvolvedora de Software** - Hurb | Janeiro 2022 - Maio 2023
 
@@ -67,10 +71,13 @@ Adoro um desafio e oportunidades de aprender coisas novas que farão de mim uma 
 
 * HTML5/CSS
 * REST/RESTful APIs
-* Node com React: Fullstack Web Development
+* Node com React: Desenvolvimento Web Fullstack
+* Desenvolvimento de um bot para o Discord com NodeJS
 * VTEX Certified Professional Advanced Implementation Expert
 * GraphQL com React: O Guia completo dos Desenvolvedores
 * Testing React com Jest e React Testing Library
+* Git e GitHub: Formação Básica através do LinkedIn
+* Certificado de participação no NLW IA da Rocketseat
 
 
 ## Idiomas
