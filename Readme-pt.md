@@ -15,21 +15,22 @@ Adoro um desafio e oportunidades de aprender coisas novas que farão de mim uma 
 
 * HTML5
 * CSS3 (Sass / Scss / Less)
+* Tailwind CSS
 * Javascript / jQuery / Requisição AJAX
 * React / Next.js / ES6 / TypeScript
-* Jest / React Testing Library
+* Jest / Vitest / React Testing Library
 * GraphQL
 * Automatizadores (Gulp / Grunt)
-* Plataforma de ecommerce (VTEX)
 * Sites responsivos
 * Versionamento de arquivos (GitHub / Bitbucket / GitFlow)
+* Plataforma de ecommerce (VTEX)
 * Programas de edição e recortes de imagens (Figma)
 
 ## Experiência Profissional
 
 **Desenvolvedora Front-End** - Vagas.com | Setembro 2023 - Atualmente
 
-> Faço parte do círculo de front-end da empresa, e nosso principal objetivo é levantar melhorias nas aplicações, levando em consideração as boas práticas no código.
+> Faço parte do círculo de front-end da empresa, e nosso principal objetivo é levantar melhorias nas aplicações, levando em consideração as boas práticas no código. Experiência com ReactJS, desenvolvimento de hooks customizados, NextJS, Tailwind CSS, Vitest, React Testing Library e Github.
 
 **Desenvolvedora de Software** - Hurb | Janeiro 2022 - Maio 2023
 

@@ -15,21 +15,22 @@ I love challenges and oportunities to learn new things that will make me a bette
 
 * HTML5
 * CSS3 (Sass / Scss / Less)
+* Tailwind CSS
 * Javascript / jQuery / AJAX Request
 * React / Next.js / ES6 / TypeScript
-* Jest / React Testing Library
+* Jest / Vitest / React Testing Library
 * GraphQL
 * Gulp / Grunt
-* Ecommerce platform (VTEX)
 * Responsive websites
 * GitHub / Bitbucket / GitFlow
+* Ecommerce platform (VTEX)
 * Figma
 
 ## Work Experience
 
 **Front-End Developer** - Vagas.com | September 2023 - Current
 
-> I’m part of the front-end circle inside the company, and our main goal is to raise improvements on the applications, considering the best code practices.
+> I’m part of the front-end circle inside the company, and our main goal is to raise improvements on the applications, considering the best code practices. Experience with ReactJS, custom hooks development, NextJS, Tailwind CSS, Vitest, React Testing Library and Github.
 
 **Software Developer** - Hurb | January 2022 - May 2023
 
