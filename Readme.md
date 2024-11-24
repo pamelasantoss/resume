@@ -1,30 +1,20 @@
 # Pamela Santos Silva
 
-**Portfolio:** [pamesantos.com.br](http://pamesantos.com.br/)
+**Portfolio:** [pamelasantos.dev.br](https://pamelasantos.dev.br/)
 
 **E-mail:** pamesantoss@hotmail.com
 
 **Github:** pamelasantoss
 
 ## About me
-I'm a front-end developer for more than 8 years and at the moment I'm focused to improve my skills in ReactJS, Javascript, CSS and TypeScript. I started my career working with e-commerce and since then I never stopped to grow up together with this wonderful market that doesn't stop to grow.
+I’ve been a developer for 10 years, focusing on front-end development. I graduated in Digital Design and I am continually seeking to learn new technologies to boost my professional growth. I’m an expert in prevailing the best user experience, working on solving problems in a fast and efficient way, and developing responsive and accessible applications.
 
-I love challenges and oportunities to learn new things that will make me a better professional.
-
-## Skills
-
-* HTML5
-* CSS3 (Sass / Scss / Less)
-* Tailwind CSS
-* Javascript / jQuery / AJAX Request
-* React / Next.js / ES6 / TypeScript
-* Jest / Vitest / React Testing Library
-* GraphQL
-* Gulp / Grunt
-* Responsive websites
-* GitHub / Bitbucket / GitFlow
-* Ecommerce platform (VTEX)
-* Figma
+Among some of my technical skills, I can highlight:
+- Implementation of HTML, CSS, SASS and Tailwind CSS code best practices to create faithful interfaces that are 100% responsive.
+- Development using Javascript, ReactJS, Next.js and familiarity with TypeScript to build interactive and dynamic experiences.
+- Application of SEO best practices and accessibility.
+- Implementation of unit tests with Jest, Vitest and Testing React Library to guarantee code quality.
+- Expertise in platforms like VTEX, Figma, Github, in addition to knowledge of Agile methodologies like Scrum and Kanban.
 
 ## Work Experience
 

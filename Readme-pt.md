@@ -1,30 +1,20 @@
 # Pamela Santos Silva
 
-**Portfolio:** [pamesantos.com.br](http://pamesantos.com.br/)
+**Portfolio:** [pamelasantos.dev.br](https://pamelasantos.dev.br/)
 
 **E-mail:** pamesantoss@hotmail.com
 
 **Github:** pamelasantoss
 
 ## Sobre mim
-Sou desenvolvedora front-end há mais de 8 anos e atualmente estou focada em evoluir meus conhecimentos em ReactJS, Javascript, CSS e TypeScript. Comecei nessa vida trabalhando com ecommerce e desde então não parei de crescer junto com esse mercado maravilhoso que não para de evoluir.
+Sou desenvolvedora há 10 anos, com foco em desenvolvimento front-end. Formada em Design Digital e em busca de aprender novas tecnologias para impulsionar meu crescimento profissional. Sou especialista em proporcionar a melhor experiência para os usuários, atuando na resolução de problemas de forma rápida e eficiente, e na construção de aplicações responsivas e acessíveis.
 
-Adoro um desafio e oportunidades de aprender coisas novas que farão de mim uma profissional melhor.
-
-## Habilidades
-
-* HTML5
-* CSS3 (Sass / Scss / Less)
-* Tailwind CSS
-* Javascript / jQuery / Requisição AJAX
-* React / Next.js / ES6 / TypeScript
-* Jest / Vitest / React Testing Library
-* GraphQL
-* Automatizadores (Gulp / Grunt)
-* Sites responsivos
-* Versionamento de arquivos (GitHub / Bitbucket / GitFlow)
-* Plataforma de ecommerce (VTEX)
-* Programas de edição e recortes de imagens (Figma)
+Dentre algumas das minhas habilidades técnicas, posso destacar:
+- Implementação de boas práticas de código HTML, CSS, SASS e Tailwind CSS para criar interfaces fiéis ao layout e 100% responsivas.
+- Utilização de Javascript, ReactJS, Next.js e familiaridade com TypeScript para criar experiências interativas e dinâmicas.
+- Aplicação de técnicas de SEO e acessibilidade.
+- Realização de testes unitários utilizando Jest, Vitest e Testing React Library para garantir a qualidade do código.
+- Experiência em plataformas como VTEX, Figma, Github, além de conhecimento em metodologias ágeis como Scrum e Kanban.
 
 ## Experiência Profissional
 
