@@ -7,9 +7,11 @@
 **Github:** pamelasantoss
 
 ## About me
-I’ve been a developer for 10 years, focusing on front-end development. I graduated in Digital Design and I am continually seeking to learn new technologies to boost my professional growth. I’m an expert in prevailing the best user experience, working on solving problems in a fast and efficient way, and developing responsive and accessible applications.
+
+I’ve been a developer for 14 years, focusing on front-end development. I graduated in Digital Design and I am continually seeking to learn new technologies to boost my professional growth. I’m an expert in prevailing the best user experience, working on solving problems in a fast and efficient way, and developing responsive and accessible applications.
 
 Among some of my technical skills, I can highlight:
+
 - Implementation of HTML, CSS, SASS and Tailwind CSS code best practices to create faithful interfaces that are 100% responsive.
 - Development using Javascript, ReactJS, Next.js and familiarity with TypeScript to build interactive and dynamic experiences.
 - Application of SEO best practices and accessibility.
@@ -50,26 +52,23 @@ Among some of my technical skills, I can highlight:
 
 > I worked as a trainee updating websites, creation of landing-pages and email marketing, and take care of image processing. I used HTML, CSS, Javascript, MySql and Photoshop.
 
-
 ## Education
 
 **Bachelor in Digital Design** - Centro Universitário FIEO (Unifieo) | February 2013 - December 2016
 
 **Technical of Computing for Internet (Webdesign)** - SENAC | November 2010 - August 2012
 
-
 ## Courses
 
-* HTML5/CSS
-* REST/RESTful APIs
-* Node with React: Fullstack Web Development
-* A discord bot development with NodeJS
-* VTEX Certified Professional Advanced Implementation Expert
-* GraphQL with React: The Complete Developers Guide
-* Testing React with Jest and React Testing Library
-* Git and GitHub: Basic Formation by LinkedIn
-* Certificate of participation on NLW AI by Rocketseat
-
+- HTML5/CSS
+- REST/RESTful APIs
+- Node with React: Fullstack Web Development
+- A discord bot development with NodeJS
+- VTEX Certified Professional Advanced Implementation Expert
+- GraphQL with React: The Complete Developers Guide
+- Testing React with Jest and React Testing Library
+- Git and GitHub: Basic Formation by LinkedIn
+- Certificate of participation on NLW AI by Rocketseat
 
 ## Languages
 
